@@ -6,10 +6,10 @@ The folder should contain:
 2. Readme.md
 3. viterbi.py
 ---
-*To run the program*
+**To run the program**
 `python Viterbi.py <sequence>`
 ---
-*Sample Output*
+**Sample Output**
 Kripanshu-Mac:homework3_kxb162030 kripanshubhargava$ python3 viterbi.py "DDNNCCDND"
 state space  ['H', 'F']
 observation space  ['N', 'C', 'D']
